@@ -16,7 +16,6 @@ public class AverageOfSubarrayOfSizeK {
                 windowSum -= arr[windowStart]; // subtract the element going out
                 windowStart++; // slide the window ahead
             }
-            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
         }
         return result;
 
